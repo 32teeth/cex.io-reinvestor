@@ -10,10 +10,8 @@ at: gson/LICENSE.txt.
 ### Support
 If you would like to support the development of this project, please spread the word and donate!
 
-* Motivation BTC    @ 1HvXfXRP9gZqHPkQUCPKmt5wKyXDMADhvQ
-* Cex.io referral   @ https://cex.io/r/0/kannibal3/0/
-* Scrypt Referral   @ http://scrypt.cc?ref=baaah
-* Cryptsy Trade Key @ e5447842f0b6605ad45ced133b4cdd5135a4838c
+* Motivation BTC    @ 1NLDaYzae2E6u61bGDUU4uYGpiAkg6vG4T
+* Cex.io referral   @ https://cex.io/r/0/32teeth/0/
 * Other donations accepted via email request!
 
 ### Features
@@ -33,7 +31,7 @@ If you would like to support the development of this project, please spread the 
 ![](https://raw2.github.com/zackurben/cex.io-reinvestor/master/screenshots/About.png)
 
 ##How to use (GUI):
-1. Download the [latest release](https://github.com/zackurben/cex.io-reinvestor/releases/).
+1. Download the [latest release](https://github.com/32teeth/cex.io-reinvestor/releases).
 2. Generate a Cex.io API key and API secret (https://cex.io/trade/profile).
      This key needs the following permissions, to enable full functionality:
   * Account Balance
@@ -44,7 +42,7 @@ If you would like to support the development of this project, please spread the 
 4. Set your desired settings, and Toggle Reinvestment.
 
 ##How to use (CLI):
-1. Download the executable (https://github.com/zackurben/cex.io-reinvestor/releases/).
+1. Download the executable (https://github.com/32teeth/cex.io-reinvestor/releases).
 2. Generate a Cex.io API key and API secret (https://cex.io/trade/profile).
     This key needs the following permissions, to enable full functionality:
   * Account Balance
